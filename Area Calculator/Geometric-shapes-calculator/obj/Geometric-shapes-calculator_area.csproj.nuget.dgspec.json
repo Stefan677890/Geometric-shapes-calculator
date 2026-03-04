@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1ap\\source\\repos\\Geometric-shapes-calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj": {}
+    "C:\\Users\\1ap\\Desktop\\Area Calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1ap\\source\\repos\\Geometric-shapes-calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj": {
+    "C:\\Users\\1ap\\Desktop\\Area Calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1ap\\source\\repos\\Geometric-shapes-calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj",
+        "projectUniqueName": "C:\\Users\\1ap\\Desktop\\Area Calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj",
         "projectName": "Geometric-shapes-calculator_area",
-        "projectPath": "C:\\Users\\1ap\\source\\repos\\Geometric-shapes-calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj",
+        "projectPath": "C:\\Users\\1ap\\Desktop\\Area Calculator\\Geometric-shapes-calculator\\Geometric-shapes-calculator_area.csproj",
         "packagesPath": "C:\\Users\\1ap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1ap\\source\\repos\\Geometric-shapes-calculator\\Geometric-shapes-calculator\\obj\\",
+        "outputPath": "C:\\Users\\1ap\\Desktop\\Area Calculator\\Geometric-shapes-calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

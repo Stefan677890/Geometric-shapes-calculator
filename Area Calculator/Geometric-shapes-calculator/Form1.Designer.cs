@@ -55,7 +55,7 @@
             btn_Oblicz.Name = "btn_Oblicz";
             btn_Oblicz.Size = new Size(209, 43);
             btn_Oblicz.TabIndex = 1;
-            btn_Oblicz.Text = "Oblicz";
+            btn_Oblicz.Text = "Calculate";
             btn_Oblicz.UseVisualStyleBackColor = true;
             // 
             // text_box1
@@ -82,7 +82,7 @@
             Bok1.Name = "Bok1";
             Bok1.Size = new Size(132, 34);
             Bok1.TabIndex = 4;
-            Bok1.Text = "Bok 1";
+            Bok1.Text = "side 1";
             Bok1.Click += label1_Click;
             // 
             // Bok2
@@ -91,9 +91,9 @@
             Bok2.Font = new Font("Segoe UI", 15F);
             Bok2.Location = new Point(139, 187);
             Bok2.Name = "Bok2";
-            Bok2.Size = new Size(56, 28);
+            Bok2.Size = new Size(63, 28);
             Bok2.TabIndex = 5;
-            Bok2.Text = "Bok2";
+            Bok2.Text = "side 2";
             // 
             // Rodzajfigury
             // 
@@ -103,7 +103,7 @@
             Rodzajfigury.Size = new Size(209, 34);
             Rodzajfigury.TabIndex = 6;
             Rodzajfigury.Tag = "";
-            Rodzajfigury.Text = "Rodzaj figury";
+            Rodzajfigury.Text = "Which shape";
             // 
             // Wynik
             // 

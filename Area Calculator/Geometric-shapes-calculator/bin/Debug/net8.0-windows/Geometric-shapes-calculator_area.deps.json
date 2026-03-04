@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Geometric-shapes-calculator_area/1.0.0": {
+        "runtime": {
+          "Geometric-shapes-calculator_area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geometric-shapes-calculator_area/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
