@@ -1,0 +1,16 @@
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\bin\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.exe
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\bin\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.deps.json
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\bin\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.runtimeconfig.json
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\bin\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.dll
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\bin\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.pdb
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric_shapes_calculator.Form1.resources
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.csproj.GenerateResource.cache
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.AssemblyInfoInputs.cache
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.AssemblyInfo.cs
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.csproj.CoreCompileInputs.cache
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.dll
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\refint\Geometric-shapes-calculator_perimeter.dll
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.pdb
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\Geometric-shapes-calculator_perimeter.genruntimeconfig.cache
+C:\Users\1ap\source\repos\Geometric-shapes-calculator\Geometric-shapes-calculator\obj\Debug\net8.0-windows\ref\Geometric-shapes-calculator_perimeter.dll
